@@ -1,0 +1,26 @@
+[{
+        "topic": "home",
+        "heading": "Home",
+        "body": "<section><img src=\"images/Central_Perk_Coffee_Shop.png\" title =\"Central Perk Coffee Shop\" width = \"15%'\"'>  <h2 > Visit us @ Central Perk </h2> <aside> <ul> <li> Specialty Coffee and Tea </li> <li> Bagels, Muffins, and Organic Snacks </li> <li> Music and Poetry Readings </li> <li> Open Mic Night </li>  </ul> </aside> </section> <section>199 Lafayette St <br/>Newyork City,NY 10001 <br/> 888 - 555 - 5555 <br/> <br/></section>"
+    },
+    {
+        "topic": "about",
+        "heading": "About",
+        "body": "<br/>The six main protagonists frequently visited Central Perk throughout the series. It is situated in New York City's Greenwich Village, in the same apartment block as Monica's apartment. It was where they spent much of their free time conversing. There are 97 steps away from Chandler and Joey's apartment as Joey counts in The One With George Stephanopoulos. In every episode, the gang somehow always ends up getting the same set of chairs, and the couch. In many episodes fans have noticed a \"Reserved\" sign on the main table of the area. This is also sometimes on the side table (on the left of screen). "
+    },
+    {
+        "topic": "menu",
+        "heading": "Menu",
+        "body": "<div id=\"tabs\"> <ul> <li><a href=\"#tabs-1\">Music at Central Perk</a></li> <li><a href=\"#tabs-2\">Just Java</a></li> <li><a href=\"#tabs-3\">Cafe au Lait</a></li> <li><a href=\"#tabs-4\">Iced Cappuccino</a></li> </ul> <div id=\"tabs-1\"> <h2>Music at Central Perk</h2> <p> <img src = \"images/mugs.jpg\" alt=\"mugs on a wall\"><p>Indulge in our locally roasted free-trade coffee and enjoy the aroma, the smooth taste, the caffeine! Join our Mug Club and get a 10% discount on each cup of coffee you purchase &mdash; ask the barista for details. </p> </div> <div id=\"tabs-2\"> <h2>Just Java</h2> <p>Regular house blend, decaffeinated coffee, or flavor of the day.<br>Endless Cup $2.00</p> </div> <div id=\"tabs-3\"> <h2>Cafe au Lait</h2> <p>House blended coffee infused into a smooth, steamed milk.<br>Single $2.00 Double $3.00</p> </div> <div id=\"tabs-4\"> <h2>Iced Cappuccino</h2> <p>Sweetened espresso blended with icy-cold milk and served in a chilled glass.<br>Single $4.75 Double $5.75</p> </div></div>"
+    },
+    {
+        "topic": "trivia",
+        "heading": "Trivia",
+        "body": "<p>In the Nickelodeon TV Show \"Game Shakers\", an episode was created paying tribute to friends, a set resembling Central Perk was created and an actor resembling Gunther was managing the store. When asking if they could sit at the couch the Gunther look-alike told them he was saving it for some friends, but considering they haven't come inside in 10 years (referencing to how long Friends has been over), they can sit there.</p><p>In celebration of the 25th anniversary of Friends, the LEGO Group released an official LEGO set replica of Central Perk on September 1st, 2019. The set includes the iconic seating area, Phoebe's musical stage, and Gunther's coffee house counter. The set also comes with seven minifigures, six of which are the main cast, and the seventh being Gunther, along with props as references to certain episodes. There are several unique stickers and printed pieces in and around the set, such as the window with the Central Perk logo on it, a blackboard featuring Phoebe Buffay's performance, and a poster of Joey promoting men's lipstick.</p>"
+    },
+    {
+        "topic": "contact",
+        "heading": "Contact Us",
+        "body": "contactus.php"
+    }
+]

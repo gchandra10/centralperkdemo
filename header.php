@@ -1,0 +1,1 @@
+<h1>Central Perk Coffee House :: <?php echo $heading;?></h1>
